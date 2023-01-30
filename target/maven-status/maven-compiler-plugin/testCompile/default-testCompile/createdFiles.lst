@@ -1,0 +1,9 @@
+com\github\mishchuk7\airvisualapiclient\v1\client\StatesInCountryClientTest.class
+com\github\mishchuk7\airvisualapiclient\v1\client\CitiesInStateClientTest.class
+com\github\mishchuk7\airvisualapiclient\v1\UniRestUtilTest$1.class
+com\github\mishchuk7\airvisualapiclient\v1\UniRestUtilTest.class
+com\github\mishchuk7\airvisualapiclient\v1\client\CountryClientTest.class
+com\github\mishchuk7\airvisualapiclient\v1\client\NearestCityDataGPSClientTest.class
+com\github\mishchuk7\airvisualapiclient\v1\client\NearestCityDataClientTest.class
+com\github\mishchuk7\airvisualapiclient\v1\client\SpecifiedCityDataClientTest.class
+com\github\mishchuk7\airvisualapiclient\v1\TestUtil.class

@@ -1,0 +1,33 @@
+{
+  "status":"success",
+  "data":{
+    "city":"Kyiv",
+    "state":"Kyiv",
+    "country":"Ukraine",
+    "location":{
+      "type":"Point",
+      "coordinates":[
+        30.5913925,
+        50.4916301
+      ]
+    },
+    "current":{
+      "pollution":{
+        "ts":"2023-01-20T08:00:00.000Z",
+        "aqius":55,
+        "mainus":"p2",
+        "aqicn":21,
+        "maincn":"n2"
+      },
+      "weather":{
+        "ts":"2023-01-20T08:00:00.000Z",
+        "tp":7,
+        "pr":1012,
+        "hu":86,
+        "ws":0.45,
+        "wd":261,
+        "ic":"04d"
+      }
+    }
+  }
+}
